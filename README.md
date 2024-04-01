@@ -1,3 +1,2 @@
 # magnet.io
-#each line is a comment.
-Starter for Magnet App1st merge
+## Next.js App Router Course - Starter
